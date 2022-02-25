@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true declaration of our innocency who in scorn are called Quakers and how we are clear (if we have justice) from the penalties of the late act made against seditious meetings and conventicles as exprest in the preamble and reason of the said Act, &amp;c. by J.S.</title>
+            <author>Stubbs, John, 1618?-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61899</idno>
+            <idno type="STC">Wing S6071</idno>
+            <idno type="STC">ESTC R32738</idno>
+            <idno type="EEBO-CITATION">12752653</idno>
+            <idno type="OCLC">ocm 12752653</idno>
+            <idno type="VID">93332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true declaration of our innocency who in scorn are called Quakers and how we are clear (if we have justice) from the penalties of the late act made against seditious meetings and conventicles as exprest in the preamble and reason of the said Act, &amp;c. by J.S.</title>
+                  <author>Stubbs, John, 1618?-1674.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93332:1"/>
+            <pb facs="tcp:93332:1" rendition="simple:additions"/>
+            <p>A True DECLARATION OF OUR INNOCENCY who in ſcorn are called QUAKERS, AND How we are clear (if we have juſtice) from the Penalties of the late Act made againſt Seditions Meetings, and Conventicles, as expreſt in the Preamble and Reaſon of the ſaid Act, &amp;c.</p>
+            <p>Alſo ſeveral Reaſons, and Proofs by the <hi>Common-Prayer-Book</hi> and the holy Scriptures directed to in it, <hi>That our Meetings, and the manner of them, are according to the Scriptures of Truth, and therefore allowed by the Liturgy of the Church of</hi> England, <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>J. S.</hi>
+            </p>
+            <p>Printed in the Year, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93332:2"/>
+            <pb n="3" facs="tcp:93332:2" rendition="simple:additions"/>
+            <head>A True Declaration of our Innocency, who in ſcorn are called <hi>Quakers;</hi> and how we are clear (if we have juſtice) from the penalties of the late Act made againſt Seditious Meetings, and Conventicles, as expreſt in the Preamble and Reaſon of the ſaid Act, &amp;c.</head>
+            <p>THe firſt and great Reaſon, upon which the late Act againſt Conventicles ſeemes to be grounded, and the things puniſhable by the ſeverity of it, are, <q>The dangerous practiſes of ſeditious Sectaries, and other diſloyal Perſons, who under pretence of tender Con<g ref="char:EOLhyphen"/>ſciences, have, or may at their Meetings, contrive Inſurrecti<g ref="char:EOLhyphen"/>ons,</q> &amp;c.</p>
+            <p>And to this we ſay, (who are diſtinguiſhed from other men by the name of <hi>Quakers</hi>) that our Meetings have never been ſediti<g ref="char:EOLhyphen"/>ous, nor our Practiſes therein dangerous; for all ſuch Perſons, Practiſes, and Meetings by us are utterly denied, even them who make a profeſſion of Religion, and God's Worſhip, a Cloak to plot and contrive under, (and indeed if ſuch Meetings were known to be held in <hi>England</hi> there were great cauſe to make a ſevere Act againſt them) but from Plotting and Contriving the breach of the peace and publique ſafety of the Kingdom and Government, under which we live, the God of Heaven and Government, under which we live, the God of Heaven and Earth knows, that both in our Meetings, and every other Pra<g ref="char:EOLhyphen"/>ctiſe, we are altogether clear and innocent; therefore whoſo<g ref="char:EOLhyphen"/>ever perſecutes us for our Meetings and religious Duties (that we are bound in Conſcience to perform to Almighty God) when as yet to him or them it cannot be made appear, by words, actions, or other demonſtrative ſignes, that though Religion is pretended, yet the contrary is intended, doth us abſo<g ref="char:EOLhyphen"/>lute
+<pb n="4" facs="tcp:93332:3"/>wrong, for which he and they muſt give account in the Day of God's rightful Judgments; for the pure Law of God, and the juſt Laws of men condemn no man farther then they hear him, and knows what he doth to be abſolutly evil.</p>
+            <p>Therefore if we meet together to worſhip the Lord, and to give thanks to Almighty God for his Benefits and Mercies we have already received, &amp; do daily receive, we are not herein puniſhable by the late Act of the King and Parliament of <hi>England,</hi> which appears not at all to intend the prohibition of theſe things, where they are done in true ſincerity of heart unto the Lord, as holy &amp; religious Practiſes, that pertain to his Worſhip in Spirit and Truth, and relate to mens peace of Conſcience in this preſent time, and to their eternal eſtate and condition of Happineſs with him and his Son Chriſt Jeſus in the World to come, which Du<g ref="char:EOLhyphen"/>ties we can by no means omit, or leave undone, without an<g ref="char:EOLhyphen"/>ger of the everlaſting ruin and deſtruction of our Souls; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the practiſe of theſe things we ſhould not own and confeſs our Lord and Maſter Chriſt Jeſus before men, for fear of Perſe<g ref="char:EOLhyphen"/>cution, how juſtly might he deny us before his Father, which is in Heaven? then what would it profit us, if we ſhould both be freed from having our Goods ſpoyled, our Perſons, as the Ground and Street, trampled over by the worſt of men, and ſhould gain the fading pleaſures of the World, and in the end loſe our ſouls, and be Caſt-awayes.</p>
+            <p>The ſecond Reaſon of the late Act, and the things puniſh<g ref="char:EOLhyphen"/>able by it, are, <q>Conventicles, under colour or pre<g ref="char:EOLhyphen"/>tence of any Exerciſe of Religion, in other manner then according to the Liturgy and Practiſe of the Church of <hi>England,</hi>
+               </q> &amp;c.</p>
+            <p>In anſwer to this we ſay on this wiſe, If the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> practiſe according to its Liturgy, then will nor the Mem<g ref="char:EOLhyphen"/>bers thereof perſecute us, or our Meetings by this new Law; be<g ref="char:EOLhyphen"/>cauſe, not only the manner of our Meetings, but what is practiſed by us at them, is allowed by the Liturgy, as may ful<g ref="char:EOLhyphen"/>ly appear.</p>
+            <p>Firſt concerning the manner of our meetings, We meet on the ſame manner now, as our Lord and Saviour Chriſt Jeſus,
+<pb n="5" facs="tcp:93332:3" rendition="simple:additions"/>the great Founder of Chriſtianity, and his Diſciples, the firſt Chriſtians met together in the primitive times, in that it is, and hath been our conſtant practiſe ever ſince the Lord gather<g ref="char:EOLhyphen"/>ed us out of the broad-way of deſtruction, into the way of Life, to worſhip him in Spirit and Truth.</p>
+            <p>As to the manner of our Meetings, We have ſometimes met upon Mountains, and ſometimes by the Sea ſide, and other times by the Rivers ſide, and often in private houſes, in which manner it appears fully by the Scriptures, which the Liturgy directs us to, that our Lord Chriſt, and the Apoſtles, with the firſt Chriſtian Believers met together, as you may read in the Goſpel appointed in the Liturgy, to be read upon <hi>All-Saint</hi> day, St <hi>Matth.</hi> 5.1. <hi>Jeſus ſeeing the Multitude went up into a Mountain; and when he was ſet, his Diſciples came unto him, and he taught them ſaying, Bleſſed are the poor in ſpirit, &amp;c.</hi>
+            </p>
+            <p>And <hi>Acts.</hi> 1. a part of which is appointed in the Liturgy to be read on <hi>Aſcention</hi> day; Verſ. 13. <hi>And when they were come in, they went up into an apper Room, where abode both</hi> Peter <hi>and</hi> James, <hi>&amp;c.</hi>
+            </p>
+            <p>And Verſ. 14.15. <hi>Theſe all continued with one accord in Prayer and Supplications, with the women, and</hi> Mary <hi>the Mother of Jeſus, with his Brethren: And in theſe dayes</hi> Peter <hi>ſtood upon the midſt of the Diſciples, and ſaid, (the number of the names together were about a hundred and twenty) Men and Brethren, this Scripture muſt needs have been fulfilled, &amp;c.</hi>
+            </p>
+            <p>The Epiſtle appointed in the Liturgy, to he read upon <hi>Whit<g ref="char:EOLhyphen"/>ſunday, Acts</hi> 2.2. <hi>And ſuddenly there came a ſound from Heaven, as of a ruſhing mighty Winde, and filled the Houſe where they were ſit<g ref="char:EOLhyphen"/>ting, &amp;c.</hi>
+            </p>
+            <p>And the Goſpel appointed in the Liturgy to be read the ſe<g ref="char:EOLhyphen"/>cond Sunday after <hi>Eaſter, John</hi> 20. <hi>The ſame day at evening, being the firſt day of the week, when the doors were ſhut, where the Diſci<g ref="char:EOLhyphen"/>ples were aſſembled for fear of the Jews, came Jeſus and ſtood in the midſt, and ſaid, Peace be unto you, &amp;c.</hi>
+            </p>
+            <p>Its ſaid in Sacred Scripture, <hi>That out of the mouth of two or three Witneſſes, every <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>h ſhall be eſtabliſhed,</hi> therefore have we brought theſe Teſtimonies out of the Liturgy of the Church of <hi>England,</hi> to prove that the manner of our Meetings are not contrary, but
+<pb n="6" facs="tcp:93332:4"/>according to and approved of by the Scriptures mentioned in the Liturgy; for the Example of which, we have the Son of the ever-living God, and his Apoſtles, the firſt that ever bore the name of Chriſtianity upon the Earth, as may be further proved by thoſe holy Scriptures following.</p>
+            <p>Matth. 13. <hi>The ſame day Jeſus went out of the Houſe, and ſat by the Sea-ſide, and a great Multitude were gathered together unto him, ſo that he went into a Ship, and ſat, and the whole Multitude ſtood on the Shore, and he ſpake many things unto them in Parables, and ſaid.</hi>
+               <g ref="char:punc">▪</g> as you may read more at large in the Chapter.</p>
+            <p>And <hi>Acts</hi> 16.13. <hi>And on the Sabbath day we went out of the City, by a River ſide, where prayer was wont to be made; and we ſat down, and ſpake to the women which reſorted thither, &amp;c.</hi> at which Sermon of <hi>Paul</hi> by the River ſide, God opened the heart of <hi>Lydia.</hi>
+            </p>
+            <p>And <hi>Acts</hi> 20.7, 8. <hi>
+                  <g ref="char:V">Ʋ</g>pon the Firſt day of the week, when the Di<g ref="char:EOLhyphen"/>ſciples were some together to break Bread,</hi> Paul <hi>preached to them, ready to depart on the Morrow, and continued his Speech until mid<g ref="char:EOLhyphen"/>night; and there were many lights in the upper Chamber, where they were gathered together.</hi>
+            </p>
+            <p>And <hi>Acts</hi> 28.30, 31. <hi>And</hi> Paul <hi>dwelt two whole years in his own hired Houſe, and received all that came in unto him, preaching the Kingdom of God, and teaching thoſe things that Concerns our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt with all confidence, no man forbidding him;</hi> yet is not this manner of his preaching and teaching in a private Houſe diſ<g ref="char:EOLhyphen"/>allowed by the Liturgy.</p>
+            <p>Therefore ſeeing it is thus, it is good for all to be wary how they ſwear, or judge, that our Meetings are ſeditious Conven<g ref="char:EOLhyphen"/>ticles, and the manner and form in which we meet diſallowed by the Liturgy; for larger Examples we have for our Practiſes in the Scriptures repeated in the Liturgy, then they have for theirs, who have made a great profeſſion of the Liturgy, and now perfecutes the Practiſers of thoſe Scriptures ſpoken of in the Liturgy.</p>
+            <p>Thridly. For our Aſſembling of our ſelves together to wait upon the Lord in his Counſel, for the help of his Spirit to teach and inſtructors in worſhipping and giving thanks unto him, the Almighty God; which cannot be re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly and accepta<g ref="char:EOLhyphen"/>bly done, but in Spirit and in Truth, which is in no wiſe con<g ref="char:EOLhyphen"/>trary
+<pb n="7" facs="tcp:93332:4" rendition="simple:additions"/>but according to the holy Scriptures mentioned in the Liturgy, neither doth the Liturgy bind to any parti<g ref="char:EOLhyphen"/>cular place or time in the performance of theſe Chriſtian duties, where it inſtructs the Prieſt to ſay, <hi>It is very meet, right, and our bounden duty, that we ſhould at all times, and in all places give thanks unto thee, O Lord, holy Father, Almighty Everlaſting God, &amp;c.</hi> therefore every underſtanding Chriſtian muſt needs ſee how this approves of the times and places in which the Saints of old worſhipped, and gave thanks unto the true and living God, who met together to perform theſe duties in their Age and Ge<g ref="char:EOLhyphen"/>neration, as we do in ours, ſomtimes upon Mountains, and other times by the Sea and River ſides, and often in private houſes, as we do now; and is it not ſtrange you ſhould now perſecute us for practiſing that which you your ſelves profeſs: Therefore can no man judge us in the manner of our Meetings, and about the performance of our heavenly Services therin with<g ref="char:EOLhyphen"/>out reflecting upon our Saviour Chriſt, and his Apoſtles, (whoſe bleſſed Example we follow) and contradicting the Liturgy of the Church of <hi>England</hi> alſo, in doing to us in theſe things as they would not be done by themſelves,<note place="margin">
+                  <hi>St.</hi> Matth. <hi>7.12.</hi> to be read in the Of<g ref="char:EOLhyphen"/>fertory.</note> in indeavouring to afflict us for doing thoſe things which the Liturgy doth not only approve, but ſaith, <hi>It is our bounden duty, at all times, and in all places, to give thanks unto God;</hi> yet ought we moſt chiefly ſo to do when we aſſemble and meet together.</p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
